@@ -6,7 +6,7 @@ A minigame of laser dogfights in space.
 
 The game features spaceship models by [Alkis Tagaras](https://www.artstation.com/alkis-3d) (hence the working title) and music by Georgie Bogie.
 
-Its main purpose was to showcase Alkis' 3D art (which however has improved even more since then, see [here](https://www.artstation.com/artwork/d8lNYK)),
+Its main purpose was to showcase Alkis' 3D art (which however has improved even more since then, see [his ArtStation](https://www.artstation.com/artwork/d8lNYK)),
 and it was also an opportunity for me to experiment with a cleaner and more structured coding style.
 
 I have open sourced the project as a portfolio piece, and in the hopes that it will be helpful to others. Contributions are always welcome.
@@ -20,6 +20,8 @@ I have open sourced the project as a portfolio piece, and in the hopes that it w
 
 ## Usage
 
+Quick link to play: **[Download game](https://github.com/kostasvs/Alkis/releases/tag/v1.0)**
+
 Made with Unity 2019.2. Upon cloning, you should be able to run immediately in Unity test mode, or build and run.
 
 Currently designed for standalone only (Windows/Mac/Linux). Ingame controls can use gamepad, but the menu currently requires a mouse.
@@ -32,4 +34,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kostas Ventouras - [@kostasvs](https://github.com/kostasvs)
 
-Project Link: [https://github.com/kostasvs/flashydansy](https://github.com/kostasvs/Alkis)
+Project Link: [https://github.com/kostasvs/Alkis](https://github.com/kostasvs/Alkis)
