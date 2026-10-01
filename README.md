@@ -11,6 +11,9 @@ and it was also an opportunity for me to experiment with a cleaner and more stru
 
 I have open sourced the project as a portfolio piece, and in the hopes that it will be helpful to others. Contributions are always welcome.
 
+- Originally made in Unity 2019.2, later upgraded to Unity 6
+- Uses built-in render pipeline and legacy input system. There are some code provisions for the new input system (see `SSControlPlayer` script) but I had found that the new input system was unstable at that time so I did not complete the migration.
+
 ## Features
 
 * 75 vs 75 team deathmatch with bots
@@ -18,11 +21,17 @@ I have open sourced the project as a portfolio piece, and in the hopes that it w
 * Customizable controls (with gamepad support)
 * Minimalistic menus with animation and sounds
 
+## Default controls
+
+- Turn: WSAD
+- Thrust Increase: Left Mouse Button
+- Thrust Decrease: Right Mouse Button
+- Shoot: Left Control
+- Look Back: Left Shift
+
 ## Usage
 
 Quick link to play: **[Download game](https://github.com/kostasvs/Alkis/releases/tag/v1.0)**
-
-Made with Unity 2019.2. Upon cloning, you should be able to run immediately in Unity test mode, or build and run.
 
 Currently designed for standalone only (Windows/Mac/Linux). Ingame controls can use gamepad, but the menu currently requires a mouse.
 
@@ -34,4 +43,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Kostas Ventouras - [@kostasvs](https://github.com/kostasvs)
 
-Project Link: [https://github.com/kostasvs/Alkis](https://github.com/kostasvs/Alkis)
+Alkis Tagaras - [@AlkisTag](https://github.com/AlkisTag)
